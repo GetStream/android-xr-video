@@ -15,7 +15,7 @@ streamVideoAndroidUiCompose = "1.2.0"
 ui = "1.8.0-beta01"
 compose = "1.0.0-alpha01"
 runtimeVersion = "1.0.0-alpha01"
-scenecore = "1.0.0-alpha01"
+scenecore = "1.0.0-alpha02"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
