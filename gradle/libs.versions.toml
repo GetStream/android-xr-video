@@ -14,7 +14,7 @@ composeBom = "2024.12.01"
 streamVideoAndroidUiCompose = "1.2.0"
 ui = "1.8.0-beta01"
 compose = "1.0.0-alpha01"
-runtimeVersion = "1.0.0-alpha01"
+runtimeVersion = "1.0.0-alpha02"
 scenecore = "1.0.0-alpha01"
 
 [libraries]
